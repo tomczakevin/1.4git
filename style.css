@@ -1,0 +1,86 @@
+body {
+  width: 100%;
+  width: auto;
+  border: 10px solid white;
+	background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+	background-size: 400% 400%;
+	animation: gradient 15s ease infinite;
+}
+
+@keyframes gradient {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}
+
+.logo img{
+width: 100px;
+height: 100px;
+}
+
+
+h1{
+  color: white;
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  margin-bottom: 100px;
+}
+
+h2{
+  color: white;
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+h3{
+  color: white;
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+h4{
+  color: white;
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+h5{
+  color: white;
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+h6{
+  color: white;
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+p{
+  margin-top: 50px;
+  color: white;
+  width:50%;
+  height:auto;
+  text-align: center;
+  margin: auto;
+  margin-bottom: 50px;}
